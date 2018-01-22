@@ -4,7 +4,7 @@ def draw_square():
     window.bgcolor("red")
     brad=turtle.Turtle()
     brad.speed(2)
-    brad.color("yellow")
+    brad.color("green")
     brad.forward(100)
     brad.right(90)
     brad.forward(100)
