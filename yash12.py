@@ -1,0 +1,5 @@
+x=input("Enter a decimal no")
+print bin(x)
+print oct(x)
+print hex(x)
+print unicode(x)
